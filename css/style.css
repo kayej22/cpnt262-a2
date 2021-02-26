@@ -6,27 +6,25 @@ body {
   background: white  
 }
 
-h1 {
-  font-family: "Oi", cursive;
-}
+
 #gallery {
   display: grid;
   grid-auto-flow: row;
   grid-template-columns: repeat(auto-fit, minmax(var(--pic-width), 1fr));
   gap: 1rem;
 
-  margin-top: 1rem;
+  margin-top: 2rem;
 }
 a,
 figcaption {
   font-family: "Montserrat", sans-serif;
+  color: black;
 }
 a {
   text-decoration: none;
 }
 figure {
-  border: thin #c0c0c0 solid;
-  border-radius: 20px;
+  border-radius: 0px;
   display: flex;
   flex-flow: column;
   padding: 5px;
@@ -37,7 +35,7 @@ figure {
 img {
   max-width: var(--pic-width);
   max-height: var(--pic-height);
-  border-radius: 20px 20px 0 0;
+  border-radius: 10px 10px 0 0;
   object-fit: cover;
 }
 

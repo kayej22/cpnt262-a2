@@ -105,6 +105,6 @@ https://images.pexels.com/photos/2587319/pexels-photo-2587319.jpeg?auto=compress
   HTML <figcaption> Tag from w3schools.com
   https://www.w3schools.com/TAGS/tag_figcaption.asp
 
-  
+  A TON of help from Vitaly on this assignment. I don't think I could've done it with out his code and advice.
 
   So much code taken from Tony....sooooo much.
